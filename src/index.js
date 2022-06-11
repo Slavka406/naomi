@@ -1,4 +1,5 @@
 import './index.css'
+import 'antd/dist/antd.css';
 
 import App from './App';
 import React from 'react';
